@@ -1,1 +1,8 @@
 C:\dip\dip\dip\dip\bin\Debug\dip.exe.config
+C:\dip\dip\dip\dip\bin\Debug\dip.exe
+C:\dip\dip\dip\dip\bin\Debug\dip.pdb
+C:\dip\dip\dip\dip\obj\Debug\dip.Form1.resources
+C:\dip\dip\dip\dip\obj\Debug\dip.Properties.Resources.resources
+C:\dip\dip\dip\dip\obj\Debug\dip.csproj.GenerateResource.Cache
+C:\dip\dip\dip\dip\obj\Debug\dip.exe
+C:\dip\dip\dip\dip\obj\Debug\dip.pdb

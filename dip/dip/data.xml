@@ -1,0 +1,34 @@
+<uni>
+ <fuc id="1" name="ИВТ">
+     <name>ИВТ</name>
+ </fuc>
+<fuc id="2">
+     <name>АЭС</name>
+    <aaa>
+    <name>One</name>
+        <groups>
+            <group id = "311">311</group>
+        </groups>
+    </aaa>
+    <aaa>
+    <name>Two</name>
+    </aaa>
+    <aaa>
+    <name>Three</name>
+    </aaa>
+    <aaa>
+    <name>Four</name>
+    </aaa>
+    <aaa>
+    <name>Five</name>
+    </aaa>
+ </fuc>
+<fuc id="3">
+    <name>МТС</name>
+ </fuc>
+<fuc id="4">
+    <name>МРМ</name>
+ </fuc>
+    
+
+</uni>
